@@ -11,5 +11,11 @@
 <br><br>
 
 ![SSPrototype](https://gitlab.com/worawit1/SSPrototype/raw/master/Assets/images/VideoPlaying3View.png) {
-  ปัดเลื่อนขวา เพื่อซ่อนรายละเอียดวีดีโอ ขณะที่วีดีโอกำลังเล่นอยู่
+  ปัดเลื่อนขวา(เลื่อนตามนิ้ว) เพื่อซ่อนรายละเอียดวีดีโอ ขณะที่วีดีโอกำลังเล่นอยู่
+}
+
+<br><br>
+
+![SSPrototype](https://gitlab.com/worawit1/SSPrototype/raw/master/Assets/images/TapButton.gif) {
+  เพื่อกดปุ่ม เล่น Animation ตามตัวอย่าง
 }
