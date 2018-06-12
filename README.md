@@ -17,5 +17,5 @@
 <br><br>
 
 ![SSPrototype](https://gitlab.com/worawit1/SSPrototype/raw/master/Assets/images/TapButton.gif) {
-  เพื่อกดปุ่ม เล่น Animation ตามตัวอย่าง
+  เมื่อกดปุ่ม เล่น Animation ตามตัวอย่าง
 }
